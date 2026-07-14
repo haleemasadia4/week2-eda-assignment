@@ -91,9 +91,7 @@ Week 1 Repository:
 **Paste your Week 1 GitHub repository link here**
 
 Example:
-
-https://github.com/yourusername/week1-ds-assignment
-
+https://github.com/haleemasadia4/Week-1---DS-Assignment
 ---
 
 ## Mentor
